@@ -1,0 +1,41 @@
+{
+  "id": "graham-plowmans-music-pack",
+  "version": "1.1.0",
+  "title": "Graham Plowman's Mysterious Music Pack",
+  "description": "<p>A superb pack of mysterious orchestral music to instil a dark and sinister mindset in your players as they explore a haunted castle, a dark mysterious town, uncover secret rituals and any other macabre scenario you can think of.</p>",
+  "compatibility": {
+    "minimum": "0.7.5",
+    "verified": "11",
+    "maximum": "11"
+  },
+  "authors": [
+    {
+      "name": "Graham Plowman",
+      "url": "https://www.grahamplowman.com/home",
+      "flags": {}
+    },
+    {
+      "name": "Vesselchuck",
+      "discord": "Vesselchuck#8687",
+      "url": "https://boosty.to/vesselchuck",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "graham-plowmans-music-pack",
+      "label": "Graham Plowman's Mysterious Music Pack",
+      "path": "packs/graham-plowmans-music-pack",
+      "type": "Playlist",
+      "banner": "/modules/graham-plowmans-music-pack/banner.webp",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/Vesselchuck/graham-plowmans-music-pack",
+  "manifest": "https://raw.githubusercontent.com/Vesselchuck/graham-plowmans-music-pack/main/module.json",
+  "download": "https://github.com/Vesselchuck/graham-plowmans-music-pack/releases/download/latest/graham-plowmans-music-pack.zip"
+}
